@@ -2,4 +2,4 @@
 
 Meu nome é Guilherme Gabriel
 
- - Estudante Alura 💻
+ - Estudante [Alura](https://www.alura.com.br) 💻
